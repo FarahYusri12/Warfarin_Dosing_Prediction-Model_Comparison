@@ -10,7 +10,7 @@ Prediction is based on genetic factors (CYP2C9, VKORC1) and clinical variables (
 ## Models to Compare
 - Linear Regression  
 - Decision Tree  
-- Random Forest  
+- Ridge Regression  
 - Gradient Boosting  
 
 ---
