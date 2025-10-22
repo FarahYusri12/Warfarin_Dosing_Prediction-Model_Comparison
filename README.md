@@ -73,8 +73,8 @@ This analysis highlights whether genetics or clinical factors have stronger infl
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/warfarin-dose-prediction.git
-cd warfarin-dose-prediction
+git clone https://github.com/FarahYusri12/Warfarin_Dosing_Prediction-Model_Comparison.git
+cd Warfarin_Dosing_Prediction-Model_Comparison
 
 # Install dependencies
 pip install -r requirements.txt
