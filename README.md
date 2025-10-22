@@ -114,7 +114,7 @@ This project is inspired by research in **pharmacogenomics** and aims to showcas
 
 ## References
 
-Johnson J. A. (2012). Warfarin pharmacogenetics: a rising tide for its clinical value. Circulation, 125(16), 1964–1966. https://doi.org/10.1161/CIRCULATIONAHA.112.100628
+Johnson J. A. (2012). Warfarin pharmacogenetics: a rising tide for its clinical value. *Circulation, 125*(16), 1964–1966. https://doi.org/10.1161/CIRCULATIONAHA.112.100628
 
 Teka, F. S., Korsa, A. T., Bayisa, H. G., Fida, H. Y., & Senbeta, B. S. (2024). Adverse clinical outcomes of warfarin therapy and predictors among adult outpatients at public hospitals in Nekemte town, western Ethiopia: A retrospective cross-sectional study. *Thrombosis Update, 15*, 100170. https://doi.org/10.1016/j.tru.2024.100170
 
