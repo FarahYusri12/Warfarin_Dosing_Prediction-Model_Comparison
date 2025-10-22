@@ -59,10 +59,10 @@ This analysis highlights whether genetics or clinical factors have stronger infl
 
 ---
 
-## 📊 Results Overview (Example Summary)
+## 📊 Results Overview 
 
 - **Best Model:** Ridge Regression (highest R², lowest MAE)
-- **Most Influential Features:** VKORC1 and CYP2C9 (genetic factors)
+- **Most Influential Features:** VKORC1 (genetic factor)
 - Clinical features such as Age and Weight showed moderate contribution
 
 *Note: Exact numeric results can be found in `/results/` CSV files.*
