@@ -61,7 +61,7 @@ This analysis highlights whether genetics or clinical factors have stronger infl
 
 ## 📊 Results Overview (Example Summary)
 
-- **Best Model:** Gradient Boosting (highest R², lowest MAE)
+- **Best Model:** Ridge Regression (highest R², lowest MAE)
 - **Most Influential Features:** VKORC1 and CYP2C9 (genetic factors)
 - Clinical features such as Age and Weight showed moderate contribution
 
