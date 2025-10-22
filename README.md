@@ -85,10 +85,10 @@ jupyter notebook
 
 ---
 
-## 🗂️ Project Structure (Suggested)
+## 🗂️ Project Structure 
 
 ```
-├── data/               # Raw or processed dataset (not included)
+├── data/               # Preprocessed dataset 
 ├── notebooks/          # Model training & analysis (4 models)
 ├── results/            # CSV: metrics & permutation importance
 ├── visuals/            # Graphs & heatmaps
@@ -119,7 +119,7 @@ Johnson J. A. (2012). Warfarin pharmacogenetics: a rising tide for its clinical 
 Teka, F. S., Korsa, A. T., Bayisa, H. G., Fida, H. Y., & Senbeta, B. S. (2024). Adverse clinical outcomes of warfarin therapy and predictors among adult outpatients at public hospitals in Nekemte town, western Ethiopia: A retrospective cross-sectional study. *Thrombosis Update, 15*, 100170. https://doi.org/10.1016/j.tru.2024.100170
 
 ---
-**Author:** _Your Name_  
+**Author:** FarahYusri12  
 **Field:** Biomedical Science / Pharmacogenomics  
 **Contact:** (optional GitHub | LinkedIn)
 
