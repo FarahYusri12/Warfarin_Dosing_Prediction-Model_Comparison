@@ -121,7 +121,7 @@ Teka, F. S., Korsa, A. T., Bayisa, H. G., Fida, H. Y., & Senbeta, B. S. (2024). 
 ---
 **Author:** FarahYusri12  
 **Field:** Biomedical Science / Pharmacogenomics  
-**Contact:** (optional GitHub | LinkedIn)
+**Contact:** [LinkedIn](www.linkedin.com/in/farah-yusri)
 
 
 
