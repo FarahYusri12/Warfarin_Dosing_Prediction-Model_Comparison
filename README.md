@@ -14,7 +14,7 @@ This project focuses on predicting the optimal Warfarin dose based on both **gen
 
 ## 🧬 Background
 
-Warfarin is an anticoagulant with a narrow therapeutic index, where frequent INR (International Normalized ration) monitoring is required to identify the therapeutic dose for the patients (Johnson, 2012). Small dosing errors can lead to bleeding or thrombosis (Teka *et al*., 2024). Genetic polymorphisms in **CYP2C9** and **VKORC1** significantly affect drug metabolism and sensitivity (Johnson, 2012), making Warfarin an ideal case for pharmacogenomic modeling.
+Warfarin is an anticoagulant with a narrow therapeutic index, where frequent INR (International Normalized ratio) monitoring is required to identify the therapeutic dose for the patients (Johnson, 2012). Small dosing errors can lead to bleeding or thrombosis (Teka *et al*., 2024). Genetic polymorphisms in **CYP2C9** and **VKORC1** significantly affect drug metabolism and sensitivity (Johnson, 2012), making Warfarin an ideal case for pharmacogenomic modeling.
 
 ---
 
